@@ -1,0 +1,15 @@
+/* "Hakkımızda" page css */
+.container {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+}
+
+.container h2 {
+  padding-bottom: 20px;
+}
+
+.container p {
+  padding: 20px 0;
+}
